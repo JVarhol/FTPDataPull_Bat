@@ -34,4 +34,3 @@ del creds.txt>>Log.txt
 
 
 
-ECHO SCRIPT CREATED BY CMH SOLUTIONS WWW.CMHSOL.COM FOR SUPPORT PLEASE EMAIL US AT: chanus@cmhsol.com >>Log.txt
